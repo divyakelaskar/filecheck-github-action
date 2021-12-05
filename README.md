@@ -14,6 +14,7 @@ Checks the list the files in the repository on a pull request.
 
 ## Challenges I ran into
 - Choosing a learning resource (chose the official docs)
+- Adapting the YAML syntax
 
 ## Accomplishments that I'm proud of
 Learned about GitHub actions by building one.
