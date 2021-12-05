@@ -1,4 +1,4 @@
-# 🗃️ Filecheck github action
+# 🗃️ Filecheck GitHub action
 A simple GitHub action to check the list of files on a pull request.
 
 ## Inspiration
